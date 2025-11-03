@@ -1,0 +1,104 @@
+Uri: http://test801.ru/
+File Name: C:\Downloaded Web Sites\test801.ru\index-1.htm
+Content Type: text/html
+
+Uri: http://test801.ru/1743174549_screenshot_4_jpg_450-450-95-h-1.webp
+File Name: C:\Downloaded Web Sites\test801.ru\1743174549_screenshot_4_jpg_450-450-95-h-1-1.webp
+Content Type: image/webp
+
+Uri: http://test801.ru/1743174635_screenshot_5_jpg_450-450-95-h-1.webp
+File Name: C:\Downloaded Web Sites\test801.ru\1743174635_screenshot_5_jpg_450-450-95-h-1-1.webp
+Content Type: image/webp
+
+Uri: http://test801.ru/1743174721_screenshot_6_jpg_450-450-95-h-1.webp
+File Name: C:\Downloaded Web Sites\test801.ru\1743174721_screenshot_6_jpg_450-450-95-h-1-1.webp
+Content Type: image/webp
+
+Uri: http://test801.ru/1743174807_screenshot_7_jpg_450-450-95-h-1.webp
+File Name: C:\Downloaded Web Sites\test801.ru\1743174807_screenshot_7_jpg_450-450-95-h-1-1.webp
+Content Type: image/webp
+
+Uri: http://test801.ru/1743174828_screenshot_8_jpg_450-450-95-h-1.webp
+File Name: C:\Downloaded Web Sites\test801.ru\1743174828_screenshot_8_jpg_450-450-95-h-1-1.webp
+Content Type: image/webp
+
+Uri: http://test801.ru/1743174865_screenshot_9_jpg_450-450-95-h-1.webp
+File Name: C:\Downloaded Web Sites\test801.ru\1743174865_screenshot_9_jpg_450-450-95-h-1-1.webp
+Content Type: image/webp
+
+Uri: http://test801.ru/1743224949_2025-03-29_09-08-14_png_450-450-95-h-1.webp
+File Name: C:\Downloaded Web Sites\test801.ru\1743224949_2025-03-29_09-08-14_png_450-450-95-h-1-1.webp
+Content Type: image/webp
+
+Uri: http://test801.ru/1743224950_2025-03-29_09-05-34_png_450-450-95-h-1.webp
+File Name: C:\Downloaded Web Sites\test801.ru\1743224950_2025-03-29_09-05-34_png_450-450-95-h-1-1.webp
+Content Type: image/webp
+
+Uri: http://test801.ru/1743224950_2025-03-29_09-07-50_png_450-450-95-h-1.webp
+File Name: C:\Downloaded Web Sites\test801.ru\1743224950_2025-03-29_09-07-50_png_450-450-95-h-1-1.webp
+Content Type: image/webp
+
+Uri: http://test801.ru/FNiRSi GC-01.webp
+File Name: C:\Downloaded Web Sites\test801.ru\FNiRSi GC-01-1.webp
+Content Type: image/webp
+
+Uri: http://test801.ru/i.webp
+File Name: C:\Downloaded Web Sites\test801.ru\i-1.webp
+Content Type: image/webp
+
+Uri: http://test801.ru/logo.png
+File Name: C:\Downloaded Web Sites\test801.ru\logo-1.png
+Content Type: image/png
+
+Uri: http://test801.ru/orig.webp
+File Name: C:\Downloaded Web Sites\test801.ru\orig-1.webp
+Content Type: image/webp
+
+Uri: http://test801.ru/privacy.html
+File Name: C:\Downloaded Web Sites\test801.ru\privacy-1.html
+Content Type: text/html
+
+Uri: http://test801.ru/QUARTA.webp
+File Name: C:\Downloaded Web Sites\test801.ru\QUARTA-1.webp
+Content Type: image/webp
+
+Uri: http://test801.ru/rodnik.webp
+File Name: C:\Downloaded Web Sites\test801.ru\rodnik-1.webp
+Content Type: image/webp
+
+Uri: http://test801.ru/scripts.js
+File Name: C:\Downloaded Web Sites\test801.ru\scripts-3.js
+Content Type: application/javascript
+
+Uri: http://test801.ru/scripts.js?v=1.0.123
+File Name: C:\Downloaded Web Sites\test801.ru\scripts-2.js
+Content Type: application/javascript
+
+Uri: http://test801.ru/styles.css
+File Name: C:\Downloaded Web Sites\test801.ru\styles-2.css
+Content Type: text/css
+
+Uri: http://test801.ru/styles.css?v=1.0.123
+File Name: C:\Downloaded Web Sites\test801.ru\styles-3.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap
+File Name: C:\Downloaded Web Sites\test801.ru\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\test801.ru\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w--1.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/101256739
+File Name: C:\Downloaded Web Sites\test801.ru\watch\101256739-1
+Content Type: image/gif
+
+Uri: https://www.transparenttextures.com/patterns/asfalt-light.png
+File Name: C:\Downloaded Web Sites\test801.ru\patterns\asfalt-light-1.png
+Content Type: image/png
+
+Uri: https://www.transparenttextures.com/patterns/cubes.png
+File Name: C:\Downloaded Web Sites\test801.ru\patterns\cubes-1.png
+Content Type: image/png
+
